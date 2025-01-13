@@ -18,7 +18,7 @@ MySQL: Banco de dados relacional utilizado para persistência.
 
 <h4>Funcionalidades</h4>
 <br>
-Adicionar Cartão: Permite a inserção de um novo cartão de crédito com seus dados criptografados.
+Adicionar Cartão: Permite a inserção de um novo cartão  com seus dados criptografados.
 <br>
 Atualizar Cartão: Permite atualizar os dados de um cartão existente, incluindo o documento do usuário, o token do cartão e o valor associado.
 <br>
