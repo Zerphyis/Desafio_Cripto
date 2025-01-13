@@ -9,6 +9,7 @@ Spring Boot: Framework para construção de aplicações Java com foco em produt
 JPA (Java Persistence API): Para persistência de dados no banco de dados relacional.
 Spring Data JPA: Simplifica a interação com o banco de dados utilizando repositórios.
 Jasypt: Biblioteca para criptografia e descriptografia de dados sensíveis.
+<br>
 MySQL: Banco de dados relacional utilizado para persistência.
 
 <h4>Funcionalidades</h4>
@@ -37,4 +38,10 @@ Listar Cartões: Exibe todos os cartões cadastrados no sistema.
 <strong>DELETE /usuarios/deletar/{id}: Buscar todos os cartões existentes.
 ![Listar cartao](https://github.com/user-attachments/assets/909e5561-5b02-435a-93fc-40a3c7d3efec)
 <br>
+<h4>Exceções</h4>
+O sistema lança exceções personalizadas quando ocorrem erros, como ValidarExepction, para garantir que as falhas sejam informadas adequadamente ao usuário.
+
+
+<h4>Link do repositorio do desafio:</h4>
+https://github.com/backend-br/desafios/blob/master/cryptography/PROBLEM.md
 
