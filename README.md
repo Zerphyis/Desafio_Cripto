@@ -5,9 +5,13 @@ Crypiton é uma aplicação desenvolvida com Spring Boot para gerenciar dados se
 <h4>Tecnologias Utilizadas</h4>
 <br>
 Java 17: A linguagem principal utilizada no desenvolvimento da aplicação.
+<br>
 Spring Boot: Framework para construção de aplicações Java com foco em produtividade e facilidade de uso.
+<br>
 JPA (Java Persistence API): Para persistência de dados no banco de dados relacional.
+<br>
 Spring Data JPA: Simplifica a interação com o banco de dados utilizando repositórios.
+<br>
 Jasypt: Biblioteca para criptografia e descriptografia de dados sensíveis.
 <br>
 MySQL: Banco de dados relacional utilizado para persistência.
@@ -15,8 +19,11 @@ MySQL: Banco de dados relacional utilizado para persistência.
 <h4>Funcionalidades</h4>
 <br>
 Adicionar Cartão: Permite a inserção de um novo cartão de crédito com seus dados criptografados.
+<br>
 Atualizar Cartão: Permite atualizar os dados de um cartão existente, incluindo o documento do usuário, o token do cartão e o valor associado.
+<br>
 Deletar Cartão: Remove um cartão do sistema.
+<br>
 Listar Cartões: Exibe todos os cartões cadastrados no sistema.
 
 <h4>Endpoints</h4>
